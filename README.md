@@ -1,2 +1,2 @@
 # AWS-ML
-AWS - ML 
+AWS - ML practice for different models
