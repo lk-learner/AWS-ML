@@ -1,3 +1,4 @@
+Resources used in this workshop practice:
 
 [Kaggle dataset : Hotel booking demand](https://www.kaggle.com/datasets/jessemostipak/hotel-booking-demand)
 
